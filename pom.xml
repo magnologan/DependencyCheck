@@ -640,7 +640,7 @@ Copyright (c) 2012 - Jeremy Long
                 <groupId>org.apache.commons</groupId>
                 <artifactId>commons-lang3</artifactId>
                 <!--upgrading beyond this may cause issues with the Jenkins plugin-->
-                <version>3.4</version>
+                <version>3.11</version>
             </dependency>
             <dependency>
                 <groupId>com.sun.mail</groupId>
