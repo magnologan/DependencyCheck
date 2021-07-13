@@ -666,7 +666,7 @@ Copyright (c) 2012 - Jeremy Long
             <dependency>
                 <groupId>org.apache.commons</groupId>
                 <artifactId>commons-compress</artifactId>
-                <version>1.14</version>
+                <version>1.21</version>
             </dependency>
             <dependency>
                 <groupId>org.apache.ant</groupId>
